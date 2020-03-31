@@ -1,0 +1,20 @@
+{
+  "name": "html-mix",
+  "version": "1.0.2",
+  "description": "合并html工具，可以提高前端静态页面切图的效率",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilmoon2016/html-mix.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "mix",
+    "static"
+  ],
+  "author": "LEO",
+  "license": "ISC"
+}
