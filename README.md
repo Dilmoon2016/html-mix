@@ -8,8 +8,24 @@
 使用 npm:
 
 ```bash
-$ npm install html-mix --save
+$ npm install html-mix -g
 ```
+创建文件夹html-mix
+
+```bash
+$ mkdir html-mix
+```
+进入文件夹
+
+```bash
+$ cd html-mix
+```
+创建文件夹src、public、build
+
+```bash
+$ mkdir src,public,build
+```
+
 ## 目录结构
 ```html
   src //原始html目录
@@ -47,7 +63,7 @@ Usage
 ## 执行合并
 
 ```bash
-$ node app.js
+$ mix
 ```
 ## 效果
 

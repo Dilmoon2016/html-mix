@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const fs = require('fs');
 fs.readdir('./src',function(err,files){
     if(err){
