@@ -63,7 +63,7 @@ Usage
 ## 执行合并
 
 ```bash
-$ mix
+$ mix start
 ```
 ## 效果
 
